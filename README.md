@@ -1,2 +1,2 @@
 # go_study
-test credential store 1
+test credential store 2
